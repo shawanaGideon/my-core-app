@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tsIZ4nwd50QXIy4yXX7Acax+S+ywi/zIho2/b7uD27iHQIza6Wumc3+yJ5362zNMGLsnw/CP8CX1wg6P48Lwzg==",
+  "success": true,
+  "projectFilePath": "/Users/gideonshawana/Documents/3429finalsemester/Devops/gideonShawana/my-core-app/MyCoreApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/gideonshawana/.nuget/packages/microsoft.netcore.app.ref/6.0.26/microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/gideonshawana/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.26/microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/gideonshawana/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.26/microsoft.netcore.app.host.osx-arm64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
